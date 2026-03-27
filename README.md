@@ -1,5 +1,6 @@
 Final-year BSc CS student @ IIMS College, Kathmandu | AI Specialization
 Python · ML · Data Visualization · Flutter
+
 Building projects at the intersection of data and real-world problems.
 
 <!---
