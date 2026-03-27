@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @bikrant0
-- 👀 I’m interested in learning new things and try out new things....
-- 🌱 I’m currently learning web designing.... and machine learning algorithms 
-- 📫 You can message me at linkedin...
+Final-year BSc CS student @ IIMS College, Kathmandu | AI Specialization
+Python · ML · Data Visualization · Flutter
+Building projects at the intersection of data and real-world problems.
 
 <!---
 bikrant0/bikrant0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
