@@ -20,7 +20,7 @@ I've shipped a **Django 6 personal finance app** with custom auth and class-base
 
 ### Tech stack
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-4F5D95?style=flat&logo=php&logoColor=white)
