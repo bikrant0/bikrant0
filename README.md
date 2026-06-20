@@ -45,7 +45,7 @@ I've shipped a **Django 6 personal finance app** with custom auth and class-base
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [Enterprise_Task_Manager_API]([https://github.com/bikrant0/expense_tracker](https://github.com/bikrant0/enterprise-task-api-django)) | Architected a production-ready multi-tenant REST API with a custom AbstractUser model, stateless JWT authentication  | Django RESTFramework · PostgreSQL · JWT |
+| [Enterprise_Task_Manager_API]((https://github.com/bikrant0/enterprise-task-api-django)) | Architected a production-ready multi-tenant REST API with a custom AbstractUser model, stateless JWT authentication  | Django RESTFramework · PostgreSQL · JWT |
 | [expense_tracker](https://github.com/bikrant0/expense_tracker) | Personal finance web app — custom auth (AbstractUser, UUID PK), full CRUD, savings dashboard | Django 6 · Python · SQLite |
 | [lnaka_pasha](https://github.com/bikrant0/lnaka_pasha) | E-commerce platform — cart, eSewa & Visa payments, admin dashboard, AJAX/JSON search API | PHP · MySQL · JavaScript |
 | EVMS (Capstone) | Real-time ambulance routing with A* & Dijkstra, integrated Firebase auth, live maps, and traffic simulation (team project)| Flutter · Firebase · OpenStreetMap |
