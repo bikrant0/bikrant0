@@ -3,7 +3,7 @@
 **Backend Developer (Python · Django ·PHP) · Data & ML Enthusiast · Final-year CS Student · Kathmandu, Nepal**
 
 ---
-
+![](https://komarev.com/ghpvc/?username=bikrant0&abbreviated=true)
 ### About me
 
 I build backend systems — authentication, databases, APIs, and the logic that makes apps work.
@@ -70,4 +70,4 @@ I've shipped a **Django 6 personal finance app** with custom auth and class-base
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=bikrant0&icon=0&color=0)](https://visitcount.itsvg.in)
+
