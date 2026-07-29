@@ -1,14 +1,10 @@
-# Hi, I'm Bikrant Shilpakar 
-
-**Backend Developer (Python · Django ·PHP) · Data & ML Enthusiast · Final-year CS Student · Kathmandu, Nepal**
+**Backend Developer (Python · Django ·PHP) · Data & ML Enthusiast · Kathmandu, Nepal**
 
 ---
 ![](https://komarev.com/ghpvc/?username=bikrant0&abbreviated=true)
 ### About me
 
 I build backend systems — authentication, databases, APIs, and the logic that makes apps work.
-
-I've shipped a **Django 6 personal finance app** with custom auth and class-based views, and a **PHP/MySQL e-commerce platform** with cart, eSewa payments, and an AJAX/JSON search API. Working toward a junior backend role while deepening my Python and Django skills every day.
 
 - Currently building: FastAPI REST API with PostgreSQL
 - Currently learning: Django REST Framework · FastAPI · PostgreSQL
@@ -38,21 +34,6 @@ I've shipped a **Django 6 personal finance app** with custom auth and class-base
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
 
-
----
-
-### Featured projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [Enterprise_Task_Manager_API](https://github.com/bikrant0/enterprise-task-api-django) | Architected a production-ready multi-tenant REST API with a custom AbstractUser model, stateless JWT authentication  | Django RESTFramework · PostgreSQL · JWT |
-| [expense_tracker](https://github.com/bikrant0/expense_tracker) | Personal finance web app — custom auth (AbstractUser, UUID PK), full CRUD, savings dashboard | Django 6 · Python · SQLite |
-| [lnaka_pasha](https://github.com/bikrant0/lnaka_pasha) | E-commerce platform — cart, eSewa & Visa payments, admin dashboard, AJAX/JSON search API | PHP · MySQL · JavaScript |
-| EVMS (Capstone) | Real-time ambulance routing with A* & Dijkstra, integrated Firebase auth, live maps, and traffic simulation (team project)| Flutter · Firebase · OpenStreetMap |
-| [Himalayan Expeditions Dashboard](https://public.tableau.com/views/HimalayanExpedition_17739799478320/FinalDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | Interactive Tableau dashboard analyzing 20 years of Himalayan expedition data; revealed high fatality rates for low support teams | Tableau · Excel · Kaggle |
-| Income Prediction (ML) | Optimized Random Forest model using grid search and cross-validation; achieved 0.87 accuracy on income dataset | Python · scikit-learn |
-| Travel Cost Prediction | ML model predicting Nepal trekking costs using seasonal and geographic features with data visualization | Python · pandas · scikit-learn |
-| Industry Classification (Nepal) | Classified 300+ enterprise records from PDFs using ML and data preprocessing techniques | Python · Excel · scikit-learn |
 
 ---
 
