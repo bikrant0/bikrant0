@@ -1,7 +1,6 @@
 **Backend Developer (Python · Django ·PHP) · Data & ML Enthusiast · Kathmandu, Nepal**
 
 ---
-![](https://komarev.com/ghpvc/?username=bikrant0&abbreviated=true)
 ### About me
 
 I build backend systems — authentication, databases, APIs, and the logic that makes apps work.
