@@ -5,7 +5,7 @@
 
 I build backend systems — authentication, databases, APIs, and the logic that makes apps work.
 
-- Currently building: FastAPI REST API with PostgreSQL
+- Currently learning: FastAPI REST API with PostgreSQL
 - Currently learning: Django REST Framework · FastAPI · PostgreSQL
 - Ask me about: Django, Python backend, PHP/MySQL, Git
 - Reach me: shilpakarbikrant@gmail.com
