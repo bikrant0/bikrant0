@@ -1,53 +1,92 @@
-**Backend Developer (Python · Django ·PHP) · Data & ML Enthusiast · Kathmandu, Nepal**
+<div align="center">
 
----
-### About me
-
-I build backend systems — authentication, databases, APIs, and the logic that makes apps work.
-
-- Currently learning: FastAPI REST API with PostgreSQL
-- Currently learning: Django REST Framework · FastAPI · PostgreSQL
-- Ask me about: Django, Python backend, PHP/MySQL, Git
-- Reach me: shilpakarbikrant@gmail.com
-- Based in: Kathmandu, Nepal
-
----
-
-### Tech stack
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-4F5D95?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-54C5F8?style=flat&logo=flutter&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=500&lines=Hey%2C+I'm+Bikrant+;Backend+%26+ML+Engineer;Python+%7C+Django+%7C+scikit-learn;BSc+AI+%E2%80%94+Specialization+%2C+Kathmandu)](https://git.io/typing-svg)
 
 
----
+**Final year · Graduating 2026**
 
-### Connect
+```  
+    Backend engineering and applied machine learning.`
+    Building systems that are secure by design, not by trust.
+    
+```
 
+
+### Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bikrant-shilpakar93)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shilpakarbikrant@gmail.com)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-<black>?style=<STYLE>&logo=<000000>&logoColor=<white>)](bikrant.vercel.app)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=bikrant0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=bikrant0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=bikrant0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" title="Python"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" title="PHP"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="SQL" title="SQL"/>
+</p>
 
 ---
+
+### AI / ML & Data
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn" title="scikit-learn"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="40" alt="pandas" title="pandas"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="40" alt="NumPy" title="NumPy"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" title="Matplotlib"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" height="28" alt="seaborn" title="seaborn"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" height="28" alt="Tableau" title="Tableau"/>
+</p>
+
+---
+
+### Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django" title="Django"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI" title="FastAPI"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white" height="28" alt="Django REST Framework" title="Django REST Framework"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" height="28" alt="JWT" title="JWT"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" height="28" alt="Swagger / OpenAPI" title="Swagger / OpenAPI"/>
+</p>
+
+---
+
+### Databases & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL" title="PostgreSQL"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" title="MySQL"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite" title="SQLite"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" title="Firebase"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" title="Postman"/>
+</p>
+
+---
+
+### Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 
