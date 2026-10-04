@@ -16,7 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bikrant-shilpakar93)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shilpakarbikrant@gmail.com)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
-[![Portfolio](https://img.shields.io/badge/Portfolio-<black>?style=<STYLE>&logo=<000000>&logoColor=<white>)](bikrant.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-<black>?style=<STYLE>&logo=<000000>&logoColor=<white>)](https://bikrant.vercel.app)
 
 
 ### Languages
