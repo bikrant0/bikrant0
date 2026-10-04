@@ -6,7 +6,7 @@
 **Final year · Graduating 2026**
 
 ```  
-    Backend engineering and applied machine learning.`
+    Backend engineering and applied machine learning.
     Building systems that are secure by design, not by trust.
     
 ```
